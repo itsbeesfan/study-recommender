@@ -1,0 +1,94 @@
+body {
+    font-family: Futura;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #526D82;
+}
+
+header {
+    background-color: #27374D;
+    color: #DDE6ED;
+    padding: 1rem;
+    width: 100%;
+    text-align: center;
+}
+
+#search-section {
+    margin-top: 1.5rem;
+    color: #DDE6ED;
+}
+
+#searchInput {
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: #27374D;
+    font-color: #DDE6ED;
+    font-family: Futura;
+}
+
+button {
+    padding: 0.5rem;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-family: Futura;
+    background-color: #27374D;
+    color: #DDE6ED;
+    border: none;
+    cursor: pointer;
+}
+
+#video-results{
+    margin-top: 2rem;
+    width: 80%;
+    color: #DDE6ED;
+}
+
+#papers-results {
+    margin-top: 2rem;
+    width: 80%;
+    color: #DDE6ED;
+}
+
+#book-results {
+    margin-top: 2rem;
+    width: 80%;
+    color: #DDE6ED;
+}
+#credits-section {
+    font-size: 0.7rem;
+    color: #DDE6ED;
+    width: 50%;
+    text-align: center;
+}
+#video-results a {
+    color: #DDE6ED;
+    text-decoration: none;
+}
+
+#video-results a:hover {
+    color: #9DB2BF;
+    text-decoration: underline;
+}
+
+#papers-results a {
+    color: #DDE6ED;
+    text-decoration: none;
+}
+
+#papers-results a:hover {
+    color: #9DB2BF;
+    text-decoration: underline;
+}
+
+#books-results a {
+    color: #DDE6ED;
+    text-decoration: none;
+}
+
+#books-results a:hover {
+    color: #9DB2BF;
+    text-decoration: underline;
+}
