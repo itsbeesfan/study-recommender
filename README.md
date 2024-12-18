@@ -5,8 +5,7 @@ It uses the _**YouTube v3 API**_, _**Google Books API**_ and _**Semantic Scholar
 It really is very useful to have a lot of resources in the same page. 
 
 ## FEATURES
-Might add some more features later, like specific YouTube channels for the topic/subject, but for now, we have papers
-and YouTube videos.
+Might add some more features later, like specific YouTube channels for the topic/subject, but for now, we have papers, YouTube videos and books.
 
 Please refresh the page when changing your research topic/class/query.
 ## THANKS AND GETTING STARTED
